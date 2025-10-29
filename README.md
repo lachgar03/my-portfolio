@@ -112,7 +112,7 @@ Le formulaire de contact utilise Formspree. Pour l'activer :
 
 ## 📄 Ajout de votre CV
 
-Placez votre CV (format PDF) dans le dossier `public/` avec le nom `CV_LACHGAR_MOHAMED.pdf`, ou modifiez le lien dans `src/components/Hero.jsx`.
+Placez votre CV (format PDF) dans le dossier `public/` , ou modifiez le lien dans `src/components/Hero.jsx`.
 
 ## 🎨 Personnalisation
 
@@ -153,3 +153,4 @@ GitHub : [lachgar03](https://github.com/lachgar03)
 ## 📝 Licence
 
 Ce projet est sous licence MIT.
+
